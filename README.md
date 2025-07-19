@@ -4,3 +4,8 @@
 📦 Users can register, log in, and securely store website credentials. <br>
 🔍 Includes profile password verification and clean UI for viewing data. <br>
 🚀 Built for secure and easy personal credential management.# Locify-PasswordManager
+
+## 📸Screenshot of all rendered Components:
+
+
+![alt text](./Screenshot/locify.png)
